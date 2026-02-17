@@ -1,6 +1,6 @@
 # Summer School 2025   
 
-![photo of participants](./images/summerschool2025.jpg)
+![photo of participants](./docs/summerschool2025.jpg)
 
 article on our website (English): 
 https://www.lifolab.de/citylab-summer-school-2025
@@ -17,7 +17,7 @@ Excerpt from articles above:
 
 ### Not a Drone – Brand­erkennungs­prototyp  
 
-![photo of presentation 1](./images/summerschool1.jpg)
+![photo of presentation 1](./docs/summerschool1.jpg)
 
 https://github.com/NurzhanSeitzhanov/Not-a-Drone_Big-Data  
 
@@ -25,7 +25,7 @@ Dieses Projekt ist ein Prototyp auf Basis eines ESP32-S3 Mikrocontrollers, der e
 
 ### AR APP
 
-![photo of presentation 2](./images/summerschool2.jpg)
+![photo of presentation 2](./docs/summerschool2.jpg)
 
 https://github.com/JohannMuenchhagen/BigDataAnalytics
 
@@ -33,7 +33,7 @@ Dieses Projekt ist eine AR Anwendung (Augmented Reality) im Rahmen des Kurses Bi
 
 ### InTheWoods
 
-![photo of presentation 3](./images/summerschool3.jpg)
+![photo of presentation 3](./docs/summerschool3.jpg)
 
 https://github.com/thitrunganhnguyen/InTheWoods
 

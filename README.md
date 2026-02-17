@@ -40,6 +40,8 @@ https://github.com/thitrunganhnguyen/InTheWoods
 Edge-Impulse-basiertes Objekterkennungs-Projekt für das Seeed XIAO ESP32S3 CAM.  
 Ziel: Baum/Hindernis erkennen und per LEDs/Lüftern eine einfache Ausweichlogik ansteuern.
 
-## Always-Included-Links (to do)
+## Links
 
-links to lifo website, relevant outside stuff
+[Our website lifolab](https://www.lifolab.de)
+
+[Fachgebiet Nachrichtenübertragung an der Technischen Universität Berlin](https://www.tu.berlin/nue)

@@ -1,61 +1,45 @@
-# Welcome to Project-Name!  
-(maybe add some kind of fancy burning match banner?)
+# Summer School 2025   
 
-very **short** description of: 
-- what it is 
-- in what context it was developed 
+![photo of participants](./images/summerschool2025.jpg)
 
-```A simple DIY "drone" streaming either live camera or infrared feed. Part of the [TechTales exhibition at UNI_VERSUM.](https://linktothething.notarealwebsite.com)```
+article on our website (English): 
+https://www.lifolab.de/citylab-summer-school-2025
 
-Try to stick to 1 or 2 sentences, no more than a paragraph.
+article on CityLab Berlin's website (German): https://citylab-berlin.org/de/blog/citylab-summer-school-2025-stadt-wald-labor/
 
-## Features (optional)
+Excerpt from articles above: 
 
-## Hardware (optional)
+>In light of increasingly frequent droughts and forest fires, this year we asked ourselves: What if the forest could speak to us — through sensors, data streams, and sounds? And how can digital technologies help interweave city and nature more closely?
+>
+>The CityLAB Summer School 2025 sought answers to exactly these questions. For two weeks, CityLAB, in cooperation with HTW Berlin, the Real-Lab Forest of TU Berlin, the Technologiestiftung Berlin and ZK/U Berlin – Center for Art and Urbanistics, transformed into a workshop for both digital and analog rustling of leaves. Flying sensors, interactive augmented-reality applications for urban spaces, and machine-learning approaches for environmental crisis scenarios were at the core. With creative uses of technology and new ecological perspectives, the relationship between humans, machines, and trees was further developed — always with the goal of connecting digital innovation and sustainability.
 
-if your project only consists of an esp32 devboard, a potentiometer, and a raspberry pi, feel free to list them here -> immediately show what is needed / for what it is designed
+## Projects
 
-```
-- Seeed Studio XIAO ESP32S3 Sense
-- super duper fancy Infrared-Sensor2000
-- 340mAh LiPo battery
-- 22in mylar ballon (or similar)
-- kite string
-- optional NeoPixels or similar
-```
+### Not a Drone – Brand­erkennungs­prototyp  
 
-if it requires a bunch of components, put it in the documentation
+![photo of presentation 1](./images/summerschool1.jpg)
 
-## Quick Start / Documentation (optional)
+https://github.com/NurzhanSeitzhanov/Not-a-Drone_Big-Data  
 
-if it's something super simple (a standalone arduino sketch), provide a quick description of how to get it running here. 
-if at all possible, add picture(s)! 
-(make sure to note any special version requirements, or such, if relevant)
+Dieses Projekt ist ein Prototyp auf Basis eines ESP32-S3 Mikrocontrollers, der eine Kamera, eine LED und einen Motor kombiniert, um feuerähnliche Farben zu erkennen. Das System bietet eine visuelle Rückmeldung über die LED, eine mechanische Reaktion durch den Motor sowie eine detaillierte Ausgabe über die serielle Schnittstelle.
 
-``` 
-Only works with Arduino IDE >= 2.13 !
+### AR APP
 
-- Connect the camera module to the ESP32 as described here: [link]
-- Copy the src folder to your computer and open the sketch in Arduino IDE. 
-- Make sure to install somerandomlibrary
-- Set your own WiFi credentials
-- Compile and Upload 
-- Open browser and enjoy!
+![photo of presentation 2](./images/summerschool2.jpg)
 
-If anything went wrong, check common errors and solutions in docs/troubleshooting.md, or use our [handy little prompt template](https://github.com/smitzkar/wald-troubleshooting-prompt/) to let your favourite llm guide you through the process.  
+https://github.com/JohannMuenchhagen/BigDataAnalytics
 
-If it's your first time using Arduino, we recommend you follow [this guide.](https://randomnerdtutorials.com/installing-esp32-arduino-ide-2-0/)
+Dieses Projekt ist eine AR Anwendung (Augmented Reality) im Rahmen des Kurses Big Data Analytics an der HTW Berlin. Diese Anwendung basiert auf Node.js und AR.js.
 
-```
+### InTheWoods
 
-if it's more complex, link to the relevant documentation. for example: 
-```
-Check out our [Quick Start Guide here!](docs/Build-Guide.md) 
-For a quick guide on how to get started with bela, see: [linktosomegoodplace](https://actuallinktogoodplace.notarealwebsite.com)
-```
+![photo of presentation 3](./images/summerschool3.jpg)
 
-## Anything Else? 
+https://github.com/thitrunganhnguyen/InTheWoods
 
-## Links (to do)
+Edge-Impulse-basiertes Objekterkennungs-Projekt für das Seeed XIAO ESP32S3 CAM.  
+Ziel: Baum/Hindernis erkennen und per LEDs/Lüftern eine einfache Ausweichlogik ansteuern.
+
+## Always-Included-Links (to do)
 
 links to lifo website, relevant outside stuff
